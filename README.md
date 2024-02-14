@@ -1,4 +1,13 @@
-### Hi there 👋
+
+# My work / repos
+I mostly do computational physics. I'm most interested in Intelligent Inverse Design, search in an infinite action space, and automatic proofs / theory building. I am hardly an expert. 
+
+# About Me
+I'm Sudarsh (he/him). I do Physics. I will be starting University @ TBD in the Fall of 2024.
+
+# Contact
+Please email me if you want to contact me. If you are interested in any repos, you should have low barrier to emailing me. I do check my Spam folder *fairly* often, and try to respond to everything, though I apologize if I miss your email.
+
 
 <!--
 **skunnavakkam/skunnavakkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
