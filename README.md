@@ -1,13 +1,4 @@
-
-# My work / repos
-I mostly do computational physics. I'm most interested in Intelligent Inverse Design, search in an infinite action space, and automatic proofs / theory building. I am hardly an expert. 
-
-# About Me
-I'm Sudarsh (he/him). I do Physics and CS at Caltech.
-
-# Contact
-Please email me if you want to contact me. If you are interested in any repos, you should have low barrier to emailing me. I do check my Spam folder *fairly* often, and try to respond to everything, though I apologize if I miss your email.
-
+I'm Sudarsh. I'm a first year at Caltech studying Physics. I also do research as a contractor at METR, work in the Shapiro Lab at Caltech, and other things. Please reach out if you'd like, or check out my website at https://sudarsh.com :D
 
 <!--
 **skunnavakkam/skunnavakkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
